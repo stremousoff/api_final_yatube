@@ -54,8 +54,7 @@ http://127.0.0.1:8000/redoc/
 ```
 ### Примеры запросов:
 1- GET - Get item list - HTTP Response Code: 200
-```
-javascript
+```javascript
     HTTP/1.1 200
     Content-Type: application/json
 
